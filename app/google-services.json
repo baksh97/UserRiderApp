@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "958675044619",
+    "project_id": "userriderapp-e3807",
+    "storage_bucket": "userriderapp-e3807.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958675044619:android:1abc7317f5437c45593a0e",
+        "android_client_info": {
+          "package_name": "com.example.userriderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958675044619-8dvrem6rq571kl35ts1mmqrgun12h1qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFjaAH-KHEactRo2HBVQc31404e70xJoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958675044619-8dvrem6rq571kl35ts1mmqrgun12h1qq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
